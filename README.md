@@ -13,3 +13,4 @@ the temporal evolution of temperature and wind in France, across one year.
 - `cartopy` : to plot maps.
 - `IPython` : to display dataframes in Jupyter Notebook.
 - `scikit-learn` : to perform machine learning tasks.
+- `fdasrsf` : to perform functional data analysis.
